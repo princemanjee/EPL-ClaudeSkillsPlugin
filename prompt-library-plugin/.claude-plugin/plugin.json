@@ -1,0 +1,17 @@
+{
+  "name": "prompt-library",
+  "description": "226 context-engineered persona skills with quick-start guides, self-refine loops, quality dimensions, and cognitive scaffolding from PromptLibrary 4.0",
+  "version": "2.0.0",
+  "author": {
+    "name": "Prince Rehman Manjee"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "prompts",
+    "personas",
+    "context-engineering",
+    "self-refine",
+    "cognitive-scaffolding"
+  ]
+}
